@@ -1,2 +1,2 @@
-# first project contributed on github
+# first project on github
 
